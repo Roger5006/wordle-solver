@@ -51,6 +51,7 @@ size of our search space to *drastic* go down.
 ##Compiling and Running the Program
 
 make
+
 ./solver
 
 
